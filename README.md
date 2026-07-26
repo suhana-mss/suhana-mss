@@ -207,26 +207,10 @@ Worked on real-world enterprise simulation environments.
 
 ---
 
-# 🏆 GITHUB TROPHIES
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=suhana-mss&theme=onestar&no-frame=true&row=1"/>
-</p>
-
----
-
 # 📈 CONTRIBUTION ACTIVITY
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=suhana-mss&theme=react-dark"/>
-</p>
-
----
-
-# 🐍 CONTRIBUTION SNAKE
-
-<p align="center">
-  <img src="https://github.com/suhana-mss/suhana-mss/blob/output/github-contribution-grid-snake.svg"/>
 </p>
 
 ---
