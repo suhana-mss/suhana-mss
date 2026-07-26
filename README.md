@@ -28,9 +28,9 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&color=6A0DAD&style=for-the-badge"/>
-  <img src="https://img.shields.io/github/followers/yourusername?color=4B0082&style=for-the-badge"/>
-  <img src="https://img.shields.io/github/stars/yourusername?color=8A2BE2&style=for-the-badge"/>
+  <img src="https://komarev.com/ghpvc/?username=suhana-mss&color=6A0DAD&style=for-the-badge"/>
+  <img src="https://img.shields.io/github/followers/suhana-mss?color=4B0082&style=for-the-badge"/>
+  <img src="https://img.shields.io/github/stars/suhana-mss?color=8A2BE2&style=for-the-badge"/>
 </p>
 
 ---
@@ -197,12 +197,12 @@ Worked on real-world enterprise simulation environments.
 # 📊 GITHUB ANALYTICS
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=midnight-purple"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=midnight-purple"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=suhana-mss&show_icons=true&theme=midnight-purple"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=suhana-mss&theme=midnight-purple"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=midnight-purple"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suhana-mss&layout=compact&theme=midnight-purple"/>
 </p>
 
 ---
@@ -210,7 +210,7 @@ Worked on real-world enterprise simulation environments.
 # 🏆 GITHUB TROPHIES
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=onestar&no-frame=true&row=1"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=suhana-mss&theme=onestar&no-frame=true&row=1"/>
 </p>
 
 ---
@@ -218,7 +218,7 @@ Worked on real-world enterprise simulation environments.
 # 📈 CONTRIBUTION ACTIVITY
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=react-dark"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=suhana-mss&theme=react-dark"/>
 </p>
 
 ---
@@ -226,7 +226,7 @@ Worked on real-world enterprise simulation environments.
 # 🐍 CONTRIBUTION SNAKE
 
 <p align="center">
-  <img src="https://github.com/yourusername/yourusername/blob/output/github-contribution-grid-snake.svg"/>
+  <img src="https://github.com/suhana-mss/suhana-mss/blob/output/github-contribution-grid-snake.svg"/>
 </p>
 
 ---
